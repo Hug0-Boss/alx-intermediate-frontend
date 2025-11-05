@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "sass": "^1.93.3",
+    "tailwindcss": "^4.1.16"
+  },
+  "scripts": {
+    "sass": "sass --watch /0x03-sass_scss/src/scss:src/css"
+  }
+}
